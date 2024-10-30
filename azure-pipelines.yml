@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: bevan_d
+pool: misterB
 
 steps:
 - task: Maven@4
